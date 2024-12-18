@@ -74,7 +74,7 @@ It provides a rich source of information about the Glimmerfox, which was develop
 - Make sure you have installed [Docker](https://docs.docker.com/engine/install/), [Docker Compose](https://docs.docker.com/compose/install/) and [Git](https://git-scm.com/downloads).
 ### Step 2: Clone the github repository
 ```
-git clone https://github.com/bilozorov/glimmerfox.git
+git clone https://github.com/bilozorov/rag.git
 ```
 ### Step 3: Update your OPENAI_API_KEY
 ```
