@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Bilozorov
+.env
+mage_data/
+docs/
+notebooks/
